@@ -1,0 +1,27 @@
+﻿# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Storage / Uploads / Temporary data
+storage/uploads/*
+!storage/uploads/.gitkeep
+storage/metadata.json
+temp_shp/
+extracted_shp/
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Testing / Coverage
+.pytest_cache/
+.coverage
+htmlcov/

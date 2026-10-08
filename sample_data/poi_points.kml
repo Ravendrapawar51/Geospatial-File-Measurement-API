@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Survey Landmarks</name>
+    <Placemark>
+      <name>Station Alpha</name>
+      <description>GPS Benchmark 101</description>
+      <Point>
+        <coordinates>-73.9851,40.7489,15.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Station Beta</name>
+      <description>GPS Benchmark 102</description>
+      <Point>
+        <coordinates>-73.9782,40.7523,12.5</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

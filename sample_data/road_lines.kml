@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>City Transit Roads</name>
+    <Placemark>
+      <name>Main Highway Segment</name>
+      <description>Primary north-south corridor</description>
+      <LineString>
+        <coordinates>
+          -73.985,40.748,0 -73.980,40.755,0 -73.970,40.760,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Crosstown Boulevard</name>
+      <description>East-west connector street</description>
+      <LineString>
+        <coordinates>
+          -73.990,40.750,0 -73.970,40.750,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>
